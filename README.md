@@ -23,3 +23,44 @@ Prepare yourself for an adrenaline-filled experience in the world of steampunk a
 
 The graphical interface and game should be implemented using the Blender Game Engine and the Python programming language. The game style should be steampunk, and the mechanics and other elements are arbitrary, taking into account the platform's specific requirements. The automation of the graphical interface and mobile device control should be implemented using the Python programming language. The entire source code and documentation should be published on the project repository.
 
+## 3. Screenshots of the system
+
+![logo](https://github.com/AILab-FOI/PRRI-HoloGameP2023/blob/1202c42302db00ccedf515009c045f08596d8c0e/Classes/logo.png) <br>
+Picture 1. Game logo
+<br>
+<br>
+
+![concept](https://github.com/AILab-FOI/PRRI-HoloGameP2023/blob/1202c42302db00ccedf515009c045f08596d8c0e/Classes/concept.jpg) <br>
+Picture 2. Map concept
+<br>
+<br>
+
+![first_stage](https://github.com/AILab-FOI/PRRI-HoloGameP2023/blob/1202c42302db00ccedf515009c045f08596d8c0e/Classes/first_stage.png) <br>
+Picture 3. First stage of map design
+<br>
+<br>
+
+![animation](https://github.com/AILab-FOI/PRRI-HoloGameP2023/blob/1202c42302db00ccedf515009c045f08596d8c0e/Classes/animation.png) <br>
+Picture 4. Animation
+<br>
+<br>
+
+![test](https://github.com/AILab-FOI/PRRI-HoloGameP2023/blob/1202c42302db00ccedf515009c045f08596d8c0e/Classes/event_test.png) <br>
+Picture 5. Movement testing
+<br>
+<br>
+
+![logic](https://github.com/AILab-FOI/PRRI-HoloGameP2023/blob/1202c42302db00ccedf515009c045f08596d8c0e/Classes/event_logic.png) <br>
+Picture 6. Event logic
+<br>
+<br>
+
+![ui_concept](https://github.com/AILab-FOI/PRRI-HoloGameP2023/blob/1202c42302db00ccedf515009c045f08596d8c0e/Classes/ui.png) <br>
+Picture 7. UI concept
+<br>
+<br>
+
+
+
+
+

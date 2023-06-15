@@ -19,5 +19,7 @@ Prepare yourself for an adrenaline-filled experience in the world of steampunk a
 3. Develop a graphical interface automation system (mobile device control, mapping various input elements to interface and game inputs). <br>
 4. Establish automatic access point deployment. <br>
 5. Create an update system. <br>
-6. Prepare project documentation.
+6. Prepare project documentation. <br> <br>
+
+The graphical interface and game should be implemented using the Blender Game Engine and the Python programming language. The game style should be steampunk, and the mechanics and other elements are arbitrary, taking into account the platform's specific requirements. The automation of the graphical interface and mobile device control should be implemented using the Python programming language. The entire source code and documentation should be published on the project repository.
 

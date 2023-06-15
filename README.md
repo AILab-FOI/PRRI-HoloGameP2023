@@ -1,4 +1,9 @@
 # HoloGame P - "GearHeads"
+## - Game files -
+The game file sare to large for upload to git repository so we've uploaded it to cloud:
+
+Microsoft OneDrive - https://1drv.ms/f/s!Aqw_FnFbc_NPhp4SnPrPaRCQZl5qoQ?e=46ukNt 
+
 
 ## 1. Description
 

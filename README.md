@@ -1,7 +1,7 @@
 # HoloGame P - "Gearheads"
 ![logo](https://github.com/AILab-FOI/PRRI-HoloGameP2023/blob/1202c42302db00ccedf515009c045f08596d8c0e/Classes/logo.png) 
 ## - Game files -
-The game file are to large for upload to git repository so we've uploaded it to cloud:
+The game files are to large for upload to git repository so we've uploaded it to cloud:
 
 Microsoft OneDrive - https://1drv.ms/f/s!Aqw_FnFbc_NPhp4SnPrPaRCQZl5qoQ?e=46ukNt 
 

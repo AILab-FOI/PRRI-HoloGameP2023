@@ -1,4 +1,5 @@
 # HoloGame P - "GearHeads"
+![logo](https://github.com/AILab-FOI/PRRI-HoloGameP2023/blob/1202c42302db00ccedf515009c045f08596d8c0e/Classes/logo.png) 
 ## - Game files -
 The game file sare to large for upload to git repository so we've uploaded it to cloud:
 
@@ -30,38 +31,33 @@ The graphical interface and game should be implemented using the Blender Game En
 
 ## 3. Screenshots of the system
 
-![logo](https://github.com/AILab-FOI/PRRI-HoloGameP2023/blob/1202c42302db00ccedf515009c045f08596d8c0e/Classes/logo.png) <br>
-Picture 1. Game logo
-<br>
-<br>
-
 ![concept](https://github.com/AILab-FOI/PRRI-HoloGameP2023/blob/1202c42302db00ccedf515009c045f08596d8c0e/Classes/concept.jpg) <br>
-Picture 2. Map concept
+Picture 1. Map concept
 <br>
 <br>
 
 ![first_stage](https://github.com/AILab-FOI/PRRI-HoloGameP2023/blob/1202c42302db00ccedf515009c045f08596d8c0e/Classes/first_stage.png) <br>
-Picture 3. First stage of map design
+Picture 2. First stage of map design
 <br>
 <br>
 
 ![animation](https://github.com/AILab-FOI/PRRI-HoloGameP2023/blob/1202c42302db00ccedf515009c045f08596d8c0e/Classes/animation.png) <br>
-Picture 4. Animation
+Picture 3. Animation
 <br>
 <br>
 
 ![test](https://github.com/AILab-FOI/PRRI-HoloGameP2023/blob/1202c42302db00ccedf515009c045f08596d8c0e/Classes/event_test.png) <br>
-Picture 5. Movement testing
+Picture 4. Movement testing
 <br>
 <br>
 
 ![logic](https://github.com/AILab-FOI/PRRI-HoloGameP2023/blob/1202c42302db00ccedf515009c045f08596d8c0e/Classes/event_logic.png) <br>
-Picture 6. Event logic
+Picture 5. Event logic
 <br>
 <br>
 
 ![ui_concept](https://github.com/AILab-FOI/PRRI-HoloGameP2023/blob/1202c42302db00ccedf515009c045f08596d8c0e/Classes/ui.png) <br>
-Picture 7. UI concept
+Picture 6. UI concept
 <br>
 <br>
 

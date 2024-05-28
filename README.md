@@ -61,6 +61,7 @@ Picture 6. UI concept
 <br>
 <br>
 
+This work has been supported in part by the Croatian Science Foundation under the project number [IP-2019-04-5824](http://dragon.foi.hr:8888/ohai4games).
 
 
 
